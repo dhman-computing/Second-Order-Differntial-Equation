@@ -8,10 +8,10 @@ import csv
 
 # initial conditions
 
-x_0 = -0.999999999
-x_n = 0.999999999
-y_0 = -1
-dydx_0 = 10
+x_0 = 0.0001
+x_n = 50
+y_0 = 0.0001
+dydx_0 = 0.0001
 steps = 10**6
 
 
