@@ -8,10 +8,10 @@ import csv
 
 # initial conditions
 
-x_0 = 0
-x_n = 6*pi
-y_0 = 1
-dydx_0 = 0
+x_0 = -0.999999999
+x_n = 0.999999999
+y_0 = -1
+dydx_0 = 10
 steps = 10**6
 
 
